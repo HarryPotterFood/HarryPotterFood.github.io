@@ -1,0 +1,68 @@
+table {
+    
+    background-color:forestgreen;
+    width: 100%;
+}
+
+td{
+    
+    text-align: center;
+    padding: 10px;
+    
+    
+}
+#navbar td:hover{
+    
+    background-color: black;
+    
+}
+
+a {
+  color: purple;
+    text-decoration: none;
+    font-family:fantasy;
+    
+    
+}
+
+li{
+    
+   text-align: center;
+    font-size: 20px;
+    font-family:fantasy;
+    
+}
+
+p{
+    
+    text-align: center;
+    
+    
+        
+        
+}
+h1{
+    text-align: center;
+}
+#main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+#home-page-pics{
+    text-align: center;
+    
+    
+}
+
+span{
+    
+    font-size: 30px;
+    font-family: Rock Salt;
+}
+    
+}
+
+
